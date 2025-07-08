@@ -9,7 +9,8 @@ Classify tweets as Positive, Neutral, Negative using:
   
 
 ### Key Findings:
-SVM outperforms NB for this dataset. Cleaning + lemmatization boost performance.
+SVM outperforms NB for this dataset. 
+Cleaning + lemmatization boost performance.
 
 
 
